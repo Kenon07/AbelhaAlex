@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> 👨‍🦲: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Estudando novas linguagens de programação e produzindo jogos indie.
 - 🎓 &nbsp; Cursando **PROGRAMAÇÃO DE JOGOS DIGITAIS** na <a href="https://www.firjansenai.com.br/cursorio/portal/index.php">Firjan Senai Maracanã</a>.
